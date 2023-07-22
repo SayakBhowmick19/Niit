@@ -1,0 +1,11 @@
+h1+h3{
+    color:green;
+}
+
+h1>strong{
+    color: purple;
+}
+
+ul li strong{
+    color: red;
+}
